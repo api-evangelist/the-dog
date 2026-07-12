@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://thedogapi.com/
 common:
+  - type: DomainSecurity
+    url: security/the-dog-domain-security.yml
   - type: Website
     url: https://thedogapi.com/
   - type: PublicAPIsListing

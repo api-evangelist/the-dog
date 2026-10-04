@@ -39,7 +39,6 @@ apis:
   - name: The Dog
     description: "A public service all about Dogs, free to use when making your fancy new App, Website or Service"
     humanURL: https://thedogapi.com/
-    baseURL: https://thedogapi.com/
     tags:
       - Animals
     properties:

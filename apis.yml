@@ -27,7 +27,7 @@ description: "A public service all about Dogs, free to use when making your fanc
 url: https://thedogapi.com/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Animals"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://thedogapi.com/
 common:
+  - url: https://blog.thedogapi.com/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/the-dog-domain-security.yml
   - type: Website
